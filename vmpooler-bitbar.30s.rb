@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby
+#!/usr/bin/env /usr/local/rvm/bin/rvm use ruby-2.3.0@qadefault do ruby
 # SPDX-License-Identifier:    Apache-2.0
 
 require 'erb'
